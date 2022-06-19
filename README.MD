@@ -1,4 +1,4 @@
-Olá esse prjeto foi desenvolvido como projeto final do itinerário do Colégio Progresso em 2022
+**Olá esse prjeto foi desenvolvido como projeto final do itinerário do Colégio Progresso em 2022**
 
 Para executar o código é necessário ter esses requisitos: 
 
