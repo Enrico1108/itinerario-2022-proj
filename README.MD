@@ -24,6 +24,7 @@ yarn
 Para executar o código digite
 
 ```
+
 npm run dev
 
 ```
@@ -31,6 +32,7 @@ npm run dev
 ou 
 
 ```
+
 yarn dev
 
 ```
