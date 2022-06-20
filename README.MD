@@ -3,6 +3,7 @@
 Para executar o código é necessário ter esses requisitos: 
 
 https://nodejs.org/en/
+
 https://yarnpkg.com/ (Opcional)
 
 Após isso digite
